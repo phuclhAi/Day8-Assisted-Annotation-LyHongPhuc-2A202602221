@@ -1,0 +1,2 @@
+data/test/labels/*.txt -text
+data/test/label_hashes.json -text
